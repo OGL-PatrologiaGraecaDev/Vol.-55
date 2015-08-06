@@ -1,0 +1,24 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/55/pst.000005712540/003.png"; bbox 0 0 2089 3219; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 691 998 1235 1147">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 691 998 1235 1147">
+     <span class='ocr_line' id='line_1_1' title="bbox 691 998 1235 1147; baseline -0.072 11"><span class='ocrx_word' id='word_1_1' title='bbox 691 998 1235 1147; x_wconf 49' lang='lat' dir='ltr'><strong>PENNSTYHLﬁ/AN&#39;A</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 625 1178 1298 1240">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 625 1178 1298 1240">
+     <span class='ocr_line' id='line_1_2' title="bbox 625 1178 1298 1240; baseline -0.043 11"><span class='ocrx_word' id='word_1_2' title='bbox 625 1182 834 1240; x_wconf 87' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 884 1178 1298 1238; x_wconf 91' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 935 1385 2134">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1178 1298 2059">
+     <span class='ocr_line' id='line_1_3' title="bbox 625 1178 1298 1240; baseline -0.018 2"><span class='ocrx_word' id='word_1_4' title='bbox 625 1182 834 1240; x_wconf 88' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 884 1178 1298 1238; x_wconf 86' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 814 1272 1109 1381; baseline -0.095 -51"><span class='ocrx_word' id='word_1_6' title='bbox 814 1272 1109 1381; x_wconf 40' lang='lat' dir='ltr'><strong>LIBRﬁRy</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1430 1107 2059; baseline -0.095 -260"><span class='ocrx_word' id='word_1_7' title='bbox 0 1587 216 2059; x_wconf 70' lang='lat'><strong>|</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
